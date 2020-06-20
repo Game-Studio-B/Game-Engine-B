@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/Game-Engine-B.iml
+.idea/codestream.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+CMakeLists.txt
+cmake-build-debug/
