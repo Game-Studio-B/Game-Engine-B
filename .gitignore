@@ -7,3 +7,5 @@
 .idea/vcs.xml
 CMakeLists.txt
 cmake-build-debug/
+libs/
+.idea/.name
