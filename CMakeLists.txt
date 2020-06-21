@@ -6,5 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(src/headers)
 
 add_executable(Game_Engine_B
+        src/main.cpp
         src/headers/geb_core.h
         src/geb_core.cpp)
